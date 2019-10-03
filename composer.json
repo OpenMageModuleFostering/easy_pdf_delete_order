@@ -1,16 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/Easy_PDF_Delete_Order",
-    "type": "magento-module",
-    "license": "OSL-V3.0",
-    "homepage": "",
-    "description": "Add feature "Delete Order" to your magento store.",
-    "authors": [
-    {
-        "name": "Easy PDF Invoice",
-        "email": "easypdfinvoice@gmail.com"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
